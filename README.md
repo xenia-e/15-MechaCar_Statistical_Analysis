@@ -13,18 +13,22 @@ Using **R** programming language.
 - Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, write a summary interpretation of the findings.
 ### Deliverables
 
-Deliverable 1: Linear Regression to Predict MPG
-Deliverable 2: Summary Statistics on Suspension Coils
-Deliverable 3: T-Test on Suspension Coils
-Deliverable 4: Design a Study Comparing the MechaCar to the Competition
+__Deliverable 1:__ Linear Regression to Predict MPG
+
+__Deliverable 2:__ Summary Statistics on Suspension Coils
+
+__Deliverable 3:__ T-Test on Suspension Coils
+
+__Deliverable 4:__ Design a Study Comparing the MechaCar to the Competition
 
 ### Resourses
 
-MechaCar MPG dataset (Links to an external site.).
-Suspension Coil dataset (Links to an external site.).
+- MechaCar MPG dataset.
+
+- Suspension Coil dataset.
 
 
-#Results
+# Results
 
 ## Linear Regression to Predict MPG
 
@@ -129,7 +133,9 @@ If we would like to perform a formal statistical study that can quantify how our
       4.1. To perform the analysis, we are collecting target data for all MechaCar competitors.
 
       4.2. For each metric hypothesizes will be:
+
       H0: There is _no difference_ in frequency distribution between participants preferring MechaCar vs Competition.
+      
       Ha: There _is a difference_ in frequency distribution between participants preferring MechaCar vs Competition.
 
       4.3. Then we would perform t-tests on each metric for MechaCar against the same metric from the competition data.
