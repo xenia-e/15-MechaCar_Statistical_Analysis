@@ -125,7 +125,7 @@ If we would like to perform a formal statistical study that can quantify how our
 
 2. To obtain data needed to perform the analysis we should design a survey and ask participants to rate each metric.
 
-3. Test hypothesis: Is there a difference in frequency between a participant selecting MechaCar vs Competition? We will perform a Chi-squared test to compare the distribution of frequencies across two groups (MechaCar vs Competition) to test our hypothesis. With the p-value and the interval of confidence, we will reject or accept the hypothesis.
+3. Test hypothesis: _**Is there a difference in frequency between a participant selecting MechaCar vs Competition?**_ We will perform a Chi-squared test to compare the distribution of frequencies across two groups (MechaCar vs Competition) to test our hypothesis. With the p-value and the interval of confidence, we will reject or accept the hypothesis.
 
 
 4. Perform statistical analysis on most valuable metrics, e.g. horsepower, city, and highway fuel efficiency and price. 
@@ -135,7 +135,7 @@ If we would like to perform a formal statistical study that can quantify how our
       4.2. For each metric hypothesizes will be:
 
       H0: There is _no difference_ in frequency distribution between participants preferring MechaCar vs Competition.
-      
+
       Ha: There _is a difference_ in frequency distribution between participants preferring MechaCar vs Competition.
 
       4.3. Then we would perform t-tests on each metric for MechaCar against the same metric from the competition data.
